@@ -6,6 +6,6 @@ return(array)
 }
 function whileLoop(n){
   while(n>0){
-    sonsole.log(n--);
+    console.log(n--);
   }
 }
